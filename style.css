@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#start, #status{
+    font-size: 22px;
+}
+.modal-body{
+    text-align: left;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    margin: 0px;
+    line-height: 3;
+    background-color: azure;
+    color: black;
+    width: 100%;
+    text-align: center;
+}
